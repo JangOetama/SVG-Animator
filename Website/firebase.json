@@ -1,10 +1,8 @@
 {
   "hosting": {
+    "site": "svg-jangoetama",
+
     "public": "public",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+    ...
   }
 }
